@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 data/raw_data/test.csv
 data/raw_data/train.csv
+notebooks/DataFrame_laptops_limpio_1
