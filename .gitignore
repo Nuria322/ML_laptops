@@ -174,3 +174,4 @@ data/raw_data/train.csv
 notebooks/DataFrame_laptops_limpio_1
 data/raw_data/sample_submission.csv
 notebooks/submission_1.csv
+notebooks/submission_1_inches.csv
