@@ -1,2 +1,3 @@
 # ML_laptops
-Predicciones del precio de ordenadores aplicando Machine Learning
+![alt text](image.png)
+Predicciones del precio de ordenadores aplicando regresión lineal (Machine Learning)
